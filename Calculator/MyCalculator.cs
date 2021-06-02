@@ -19,7 +19,7 @@ namespace Calculator
                 case "s":
                     result = num1 - num2;
                     break;
-                case "m":
+                case "*":
                     result = num1 * num2;
                     break;
                 case "d":

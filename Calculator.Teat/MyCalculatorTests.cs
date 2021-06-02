@@ -14,7 +14,7 @@ namespace Calculator.Teat
             Assert.Equal(num1 + num2, MyCalculator.DoOperation(num1, num2, "a"));
             Assert.Equal(num1 - num2, MyCalculator.DoOperation(num1, num2, "s"));
             Assert.Equal(num1 / num2, MyCalculator.DoOperation(num1, num2, "d"));
-            Assert.Equal(num1 * num2, MyCalculator.DoOperation(num1, num2, "m"));
+            Assert.Equal(num1 * num2, MyCalculator.DoOperation(num1, num2, "*"));
         }
 
         [Fact]
@@ -34,14 +34,38 @@ namespace Calculator.Teat
             IConsoleWrapper consoleWrapper = new MockConsoleWrapper();
             string userInput = consoleWrapper.ReadLine();
             Assert.Equal("5", userInput);
+            string userInput2 = consoleWrapper.ReadLine();
+            Assert.Equal("2", userInput2);
+            string userInput3 = consoleWrapper.ReadLine();
+            Assert.Equal("m", userInput3);
+            string userInput4 = consoleWrapper.ReadLine();
+            Assert.Equal("n", userInput4);
+        }
+        [Fact]
+        public void ShouldMultiplyFiveAndTwo()
+        {
+            MockConsoleWrapper mockConsoleWrapper = new MockConsoleWrapper();
+            Program.RunCalculator(mockConsoleWrapper);
         }
     }
 
     public class MockConsoleWrapper : IConsoleWrapper
     {
+        int count = 0;
         public string ReadLine()
         {
-            return "5";
+            count++;
+            if (count == 1)
+            {
+                return "5";
+            } else if (count == 2)
+            {
+                return "2";
+            } else if (count == 3)
+            {
+                return "m";
+            }
+            return "n";
         }
     }
 }
