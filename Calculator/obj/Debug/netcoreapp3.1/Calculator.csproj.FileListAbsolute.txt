@@ -23,3 +23,4 @@ D:\CodeMakerAcademy\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csp
 D:\CodeMakerAcademy\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
 D:\CodeMakerAcademy\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
 D:\CodeMakerAcademy\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+D:\CodeMakerAcademy\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache

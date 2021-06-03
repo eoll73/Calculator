@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cU6sRuhugFZVWXM1I88nfNYLL7hSLDSHc/cUdKsEg7EgZ0/yqkn3Ux39Wwik5OW6Y3WOoXdVQAJ4/xdCHX6Okg==",
+  "dgSpecHash": "88VK+CPorGjPWgx3xvGixxqSPr13MtaNgJD5MJxrjD5iVslo2Qx4WAlr5S0znwDSTVxDrIkHv3I+x/OPR3VASg==",
   "success": true,
-  "projectFilePath": "D:\\CodeMakerAcademy\\Calculator\\Calculator.Teat\\Calculator.Teat.csproj",
+  "projectFilePath": "D:\\CodeMakerAcademy\\Calculator\\Calculator.Teat\\Calculator.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eoll7\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
+    "C:\\Users\\eoll7\\.nuget\\packages\\coverlet.msbuild\\3.0.3\\coverlet.msbuild.3.0.3.nupkg.sha512",
     "C:\\Users\\eoll7\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\eoll7\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\eoll7\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\microsoft.net.test.sdk.16.7.1.nupkg.sha512",

@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Calculator.Teat
+namespace Calculator.Test
 {
     public class MyCalculatorTests
     {

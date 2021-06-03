@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CodeMakerAcademy\\Calculator\\Calculator.Teat\\Calculator.Teat.csproj": {}
+    "D:\\CodeMakerAcademy\\Calculator\\Calculator.Teat\\Calculator.Test.csproj": {}
   },
   "projects": {
-    "D:\\CodeMakerAcademy\\Calculator\\Calculator.Teat\\Calculator.Teat.csproj": {
+    "D:\\CodeMakerAcademy\\Calculator\\Calculator.Teat\\Calculator.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CodeMakerAcademy\\Calculator\\Calculator.Teat\\Calculator.Teat.csproj",
-        "projectName": "Calculator.Teat",
-        "projectPath": "D:\\CodeMakerAcademy\\Calculator\\Calculator.Teat\\Calculator.Teat.csproj",
+        "projectUniqueName": "D:\\CodeMakerAcademy\\Calculator\\Calculator.Teat\\Calculator.Test.csproj",
+        "projectName": "Calculator.Test",
+        "projectPath": "D:\\CodeMakerAcademy\\Calculator\\Calculator.Teat\\Calculator.Test.csproj",
         "packagesPath": "C:\\Users\\eoll7\\.nuget\\packages\\",
         "outputPath": "D:\\CodeMakerAcademy\\Calculator\\Calculator.Teat\\obj\\",
         "projectStyle": "PackageReference",
