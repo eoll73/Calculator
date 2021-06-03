@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "11cDQ7JPOh8KMLlXL0pKBrJlO+hrg36w3cPnkQvD3uJiN0iPnQqi317mAmmgpDD9HDXYadLC+RF6/uB/sXqYfw==",
+  "dgSpecHash": "f6C9ZeGbzco0SWtFz7AAAUq+ioxb1oIqJ5c8zQ7nDvKWEyh+FHlBBNVfbdYVI03oD4unhhJkJAcJoEwhi9FYeA==",
   "success": true,
   "projectFilePath": "D:\\CodeMakerAcademy\\Calculator\\Calculator\\Calculator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\eoll7\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\eoll7\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\eoll7\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\eoll7\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
